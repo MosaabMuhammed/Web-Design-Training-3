@@ -1,2 +1,4 @@
-# Web-Design-Training-3
-This is just for creating new things in (HTML - CSS - JS)
+# Project (3)
+
+
+- This is just for creating new ِAwesome things in (**HTML** - **CSS** - **JS**)
